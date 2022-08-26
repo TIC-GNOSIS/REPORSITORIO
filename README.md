@@ -7,7 +7,7 @@ public class MOVIMIENTO {
     private String concepto;
     private int ingreso;
     private int egreso;
-    private String fecha;
+    private Date fecha;
     private String usuario; 
     private float monto;
 
